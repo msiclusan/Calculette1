@@ -1,3 +1,5 @@
+/* Made by GE */
+
 package calculette;
 
 public class Calculette 
